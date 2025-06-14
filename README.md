@@ -163,6 +163,8 @@ Langkah-langkahnya adalah:
 ✅ Ini memastikan tidak terjadi duplikasi voting dan menjaga database tetap konsisten bahkan jika terjadi error di tengah proses.`
 
 ## 🔄 Backup Otomatis
+![Screenshot 2025-06-14 223006](https://github.com/user-attachments/assets/6fc646dc-fe11-4927-935e-b7658c5331e6)
+
 <img width="1431" alt="Screenshot 2025-06-14 at 13 10 10" src="https://github.com/user-attachments/assets/263c0d02-dab2-4aee-8511-2fad057fb8f8" />
 
 
