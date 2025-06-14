@@ -1,4 +1,3 @@
-<!-- sidebar.php -->
 <style>
   #sidebar {
     transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
@@ -11,14 +10,12 @@
   }
 </style>
 
-<!-- Tombol Hamburger -->
 <div class="p-4">
   <button id="toggleSidebar" class="text-3xl focus:outline-none text-pink-800">
     &#9776;
   </button>
 </div>
 
-<!-- Sidebar -->
 <div id="sidebar" class="fixed top-0 left-0 h-full w-64 bg-pink-100 p-6 shadow-lg sidebar-hidden z-50">
   <h2 class="text-2xl font-bold text-pink-700 mb-8">Menu</h2>
   <ul class="space-y-6">
@@ -51,7 +48,6 @@
 </div>
 
 
-<!-- Script Toggle & Auto Close -->
 <script>
   const btn = document.getElementById('toggleSidebar');
   const sidebar = document.getElementById('sidebar');
@@ -59,7 +55,6 @@
 
   let isSidebarOpen = false;
 
-  // Buka/tutup saat tombol diklik
   btn.addEventListener('click', () => {
     sidebar.classList.toggle('sidebar-hidden');
     isSidebarOpen = !isSidebarOpen;
@@ -69,7 +64,6 @@
     }
   });
 
-  // Tutup saat klik di luar sidebar
   document.addEventListener('mousemove', (event) => {
     if (
       isSidebarOpen &&
