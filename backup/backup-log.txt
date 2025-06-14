@@ -1,0 +1,6 @@
+================================ 
+Backup mulai: 14/06/2025 22:18:39,32 
+Output: MakanApaYa_backup_2025-06-14_221839.sql 
+Executing mysqldump tanpa password 
+Exit code: 3 
+Backup GAGAL 
