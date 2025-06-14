@@ -23,7 +23,6 @@
       <div class="hidden md:block text-6xl">ℹ️</div>
     </div>
 
-    <!-- Deskripsi Aplikasi -->
     <div class="bg-white p-6 rounded-2xl shadow border border-pink-100 mb-6">
       <p class="mb-4 text-lg leading-relaxed">
         <strong class="text-pink-600">MakanApaYa</strong> adalah aplikasi berbasis web yang membantu mahasiswa memilih makanan terbaik di kantin kampus melalui sistem review dan voting yang interaktif.
@@ -33,7 +32,6 @@
       </p>
     </div>
 
-    <!-- Tim Pengembang -->
     <div class="bg-white p-6 rounded-2xl shadow border border-pink-100">
       <h2 class="text-xl font-semibold text-pink-600 mb-4">👩‍💻 Tim Pengembang</h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
