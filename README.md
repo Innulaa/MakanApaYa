@@ -162,13 +162,18 @@ Langkah-langkahnya adalah:
 
 ✅ Ini memastikan tidak terjadi duplikasi voting dan menjaga database tetap konsisten bahkan jika terjadi error di tengah proses.`
 
-## 🔄 Backup Otomatis
+## 💾 Backup Otomatis Database MakanApaYa
+
+Skrip ini digunakan untuk melakukan **backup otomatis** database MySQL `MakanApaYa` menggunakan akun khusus `adm_backup`. Hasil backup akan disimpan ke folder lokal dalam format `.sql` dengan timestamp.
+
 ![Screenshot 2025-06-14 223006](https://github.com/user-attachments/assets/6fc646dc-fe11-4927-935e-b7658c5331e6)
 ![Screenshot 2025-06-14 223037](https://github.com/user-attachments/assets/b6d66f68-0b00-41e4-83ee-e637f22cd5e4)
 ![Screenshot 2025-06-14 223112](https://github.com/user-attachments/assets/b89fe5d5-56e9-43f9-8d18-440f2c3aa329)
 <img width="1431" alt="Screenshot 2025-06-14 at 13 10 10" src="https://github.com/user-attachments/assets/263c0d02-dab2-4aee-8511-2fad057fb8f8" />
 
-Berikut kode nya :
+## 🧠 Isi Skrip `mysqlbackup.bat`
+
+```bat
 @echo off
 setlocal
 
@@ -198,10 +203,3 @@ if %ERRORLEVEL% EQU 0 (
 
 pause
 endlocal
-
-
-
-
-
-
-
