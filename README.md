@@ -5,29 +5,33 @@
 MakanApaYa adalah aplikasi berbasis web yang membantu mahasiswa memilih makanan terbaik di kantin kampus melalui sistem review dan voting yang interaktif.
 Dengan aplikasi ini, pengguna dapat memberikan ulasan, rating, dan mendapatkan rekomendasi kuliner favorit di sekitar kampus.
 
+<img width="1433" alt="image" src="https://github.com/user-attachments/assets/db6c75fb-bc13-4e1e-af0c-bad349d07194" />
+
 - `tampilan dashboard`
-- <img width="1438" alt="Screenshot 2025-06-14 at 13 08 24" src="https://github.com/user-attachments/assets/363a0ce8-120a-4d8a-ae80-71a48a9563b0" />
-- <img width="1427" alt="Screenshot 2025-06-14 at 13 11 19" src="https://github.com/user-attachments/assets/017d0fa9-7898-42f1-91a2-c859da74204d" />
+  <img width="1438" alt="Screenshot 2025-06-14 at 13 08 24" src="https://github.com/user-attachments/assets/363a0ce8-120a-4d8a-ae80-71a48a9563b0" />
+  <img width="1427" alt="Screenshot 2025-06-14 at 13 11 19" src="https://github.com/user-attachments/assets/017d0fa9-7898-42f1-91a2-c859da74204d" />
 
 
 - `tampilan tenant`
-- <img width="1425" alt="Screenshot 2025-06-14 at 12 33 21" src="https://github.com/user-attachments/assets/4aff7e4c-6efa-46be-b96f-ceb26955204d" />
+   <img width="1425" alt="Screenshot 2025-06-14 at 12 33 21" src="https://github.com/user-attachments/assets/4aff7e4c-6efa-46be-b96f-ceb26955204d" />
+   <img width="1116" alt="image" src="https://github.com/user-attachments/assets/1c5e7389-5074-4b36-ac20-dbc52577ba2a" />
+
 
 - `Tampilan login`
-<img width="940" alt="Screenshot 2025-06-14 at 21 45 11" src="https://github.com/user-attachments/assets/4d92e6d2-2bc2-486a-8749-312943628841" />
+   <img width="940" alt="Screenshot 2025-06-14 at 21 45 11" src="https://github.com/user-attachments/assets/4d92e6d2-2bc2-486a-8749-312943628841" />
 
 - `Tampilan Register`
-<img width="1208" alt="Screenshot 2025-06-14 at 21 46 21" src="https://github.com/user-attachments/assets/3118adb2-4fc1-44fa-837a-f616ff88d310" />
+   <img width="1208" alt="Screenshot 2025-06-14 at 21 46 21" src="https://github.com/user-attachments/assets/3118adb2-4fc1-44fa-837a-f616ff88d310" />
 
 - `Tampilan Voting`
-<img width="1434" alt="Screenshot 2025-06-14 at 21 48 37" src="https://github.com/user-attachments/assets/96dbf74b-d0f7-4aab-9ad7-7c8e7728b113" />
+   <img width="1434" alt="Screenshot 2025-06-14 at 21 48 37" src="https://github.com/user-attachments/assets/96dbf74b-d0f7-4aab-9ad7-7c8e7728b113" />
 
-<img width="1429" alt="Screenshot 2025-06-14 at 21 49 06" src="https://github.com/user-attachments/assets/a1ecb05e-d94c-4cf9-9997-33495cb80cb6" />
+   <img width="1429" alt="Screenshot 2025-06-14 at 21 49 06" src="https://github.com/user-attachments/assets/a1ecb05e-d94c-4cf9-9997-33495cb80cb6" />
 
 - `Tampilan Review & Tentang`
-<img width="1418" alt="Screenshot 2025-06-14 at 21 49 48" src="https://github.com/user-attachments/assets/458e57de-5323-442e-86bf-b75543614818" />
+   <img width="1418" alt="Screenshot 2025-06-14 at 21 49 48" src="https://github.com/user-attachments/assets/458e57de-5323-442e-86bf-b75543614818" />
 
-<img width="1125" alt="Screenshot 2025-06-14 at 21 50 31" src="https://github.com/user-attachments/assets/6e7b79f1-be4b-4215-976f-d0c2384c93a0" />
+   <img width="1125" alt="Screenshot 2025-06-14 at 21 50 31" src="https://github.com/user-attachments/assets/6e7b79f1-be4b-4215-976f-d0c2384c93a0" />
 
   
 ## ✨ Fitur Utama
