@@ -26,11 +26,12 @@ Dengan aplikasi ini, pengguna dapat memberikan ulasan, rating, dan mendapatkan r
    <img width="1208" alt="Screenshot 2025-06-14 at 21 46 21" src="https://github.com/user-attachments/assets/3118adb2-4fc1-44fa-837a-f616ff88d310" />
 
 - `Tampilan Voting`
+
+  <img width="1387" alt="image" src="https://github.com/user-attachments/assets/3c4988cd-6628-41e2-9ceb-a2c0b4b34355" />
+
    <img width="1434" alt="Screenshot 2025-06-14 at 21 48 37" src="https://github.com/user-attachments/assets/96dbf74b-d0f7-4aab-9ad7-7c8e7728b113" />
 
    <img width="1429" alt="Screenshot 2025-06-14 at 21 49 06" src="https://github.com/user-attachments/assets/a1ecb05e-d94c-4cf9-9997-33495cb80cb6" />
-
-   <img width="1387" alt="image" src="https://github.com/user-attachments/assets/3c4988cd-6628-41e2-9ceb-a2c0b4b34355" />
 
 
 - `Tampilan Review & Tentang`
