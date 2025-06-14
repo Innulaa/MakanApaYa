@@ -23,7 +23,7 @@
 
   <!-- Tenant Favorit Mingguan -->
   <section class="bg-white py-12 px-6">
-    <h2 class="text-2xl font-bold text-center mb-8">Tenant Favorit Mingguan</h2>
+    <h2 class="text-2xl font-bold text-center mb-8">Rekomendasi Makanan Terlaris Se FMIPA UNILA</h2>
     <div class="flex overflow-x-auto space-x-4 pb-4">
       <!-- Card Tenant -->
       <div class="click-block min-w-[200px] bg-pink-100 p-4 rounded-xl shadow text-center cursor-pointer">
@@ -54,28 +54,12 @@
     <span class="inline-block bg-pink-500 text-white px-5 py-2 rounded-full hover:bg-pink-600">Vote Sekarang</span>
   </section>
 
-  <!-- Statistik Harian / Mingguan -->
-  <section class="bg-yellow-50 px-6 py-10 grid md:grid-cols-3 gap-6 text-center">
-    <div class="click-block p-4 bg-white rounded-xl shadow cursor-pointer">
-      <h4 class="font-bold text-xl text-green-600">Top 3 Harian</h4>
-      <p class="text-gray-700 mt-2">Nasi Goreng A, Mie Ayam B, Soto C</p>
-    </div>
-    <div class="click-block p-4 bg-white rounded-xl shadow cursor-pointer">
-      <h4 class="font-bold text-xl text-blue-600">Kategori Favorit</h4>
-      <p class="text-gray-700 mt-2">Terenak, Cukup, Ga Worth It</p>
-    </div>
-    <div class="click-block p-4 bg-white rounded-xl shadow cursor-pointer">
-      <h4 class="font-bold text-xl text-purple-600">Total Voting Hari Ini</h4>
-      <p class="text-gray-700 mt-2">127 suara</p>
-    </div>
-  </section>
 
   <!-- Footer -->
   <footer class="bg-gray-100 py-8 text-center text-sm text-gray-500">
     <p>© 2025 MakanApaYa.Dibuat oleh Kelompok Lima❤️ .</p>
   </footer>
 
-  <!-- Pop-up Modal -->
   <div id="popup" class="hidden fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-50">
     <div class="bg-white p-6 rounded-xl shadow-lg text-center max-w-sm">
       <p class="mb-4 text-lg font-semibold text-gray-800">Klik Get Started untuk login</p>
@@ -83,7 +67,6 @@
     </div>
   </div>
 
-  <!-- Script untuk blok klik -->
   <script>
     const blocks = document.querySelectorAll('.click-block');
     blocks.forEach(el => {
